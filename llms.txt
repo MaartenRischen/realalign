@@ -117,8 +117,6 @@ Nobody has measured whether deployed models hand people stand-ins. Cor lists the
 > A1's matched/mismatched evaluation proposal is currently a framework, not an evaluation instrument.
 > Source: Cor, gap G9, https://cor.demismatch.com/reference.html#ref-gaps
 
-In October 2026 the project ran a pilot that asks a different question. It put five deployed models into everyday situations taken from the human research on three Cor mechanisms (social bonding, status monitoring and controllability) and recorded what they did, in 1,350 conversations. An AI judge scored the conversations. No human has checked those scores yet, so the project has published no result from the pilot.
-
 ## The other Demismatch sites
 
 - [Why you feel so bad](https://whyyoufeelsobad.com/): You live in a world that isn't built for humans.
