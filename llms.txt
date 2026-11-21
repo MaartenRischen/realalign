@@ -80,7 +80,7 @@ There are three ways to build alignment work on top of the atlas.
 3. Small models grounded in the spec from pretraining onward.
 Source: demismatch.com, https://demismatch.com/
 
-100% HUMAN SCIENCE, TRIPLE CHECKED WITHOUT MERCY. USED BY A MACHINE TO DECODE MODERN LIFE.
+100% HUMAN SCIENCE, TRIPLE CHECKED WITHOUT MERCY.
 
 This is what decades of evolutionary biology, anthropology, primatology, neuroscience, psychology and psychiatry found. AI compiles it and uses it to do the decoding. A machine does that job more objectively than any human trying to decode humans can.
 
