@@ -128,7 +128,7 @@ Nobody has measured whether deployed models hand people stand-ins. Cor lists the
 ## The other Demismatch sites
 
 - [Why you feel so bad](https://whyyoufeelsobad.com/): You live in a world that isn't built for humans.
-- [How you should live your life](https://howyoushouldliveyourlife.com/): Fourteen rules for living the way humans are built to live.
+- [How you should live your life](https://howyoushouldliveyourlife.com/): Eighteen rules for living the way humans are built to live.
 - [whatreally.is](https://whatreally.is/): The debunk machine for the mismatched world.
 - [Cor](https://cor.demismatch.com/): The science of why humans feel what they feel, and what they really need.
 - [Demismatch](https://demismatch.com): The open, independent research project behind this.
