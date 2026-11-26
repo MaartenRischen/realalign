@@ -28,7 +28,7 @@ Cor (https://cor.demismatch.com/) is an evidence-graded atlas of what human bein
 
 A mechanism is resolved when it gets what it is for and can switch off. Cor lists the resolution conditions of each mechanism (https://cor.demismatch.com/mechanisms.html).
 
-A1 names three patterns as the highest risk, in its words "because the mechanisms hijacked are the deepest and most phylogenetically protected". This is what A1 says about each.
+A1 names three patterns as the highest risk. This is what A1 says about each.
 
 1. AI companions (M3, Social Bonding, https://cor.demismatch.com/mechanism.html#M3)
 > AI companion products fail the resolution-check for M3: the M3 resolution condition is reliable human co-regulation, which an AI cannot supply regardless of conversational quality. Recommendation: AI companions should route toward human connection, never replace it.
