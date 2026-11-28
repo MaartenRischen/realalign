@@ -80,17 +80,18 @@ There are three ways to build alignment work on top of the atlas.
 3. Small models grounded in the spec from pretraining onward.
 Source: demismatch.com, https://demismatch.com/
 
+NO ‘AI SLOP’ • NOT SELF-HELP • NOT OPINION
 100% HUMAN SCIENCE
 TRIPLE CHECKED WITHOUT MERCY.
 
-This is what decades of evolutionary biology, anthropology, primatology, neuroscience, psychology and psychiatry found. AI compiles it and uses it to do the decoding. A machine does that job more objectively than any human trying to decode humans can.
+Everything here is built off of Cor (https://cor.demismatch.com/): over 5,000 findings on what humans need and what they feel without it, each checked against its study and graded. AI uses it to decode modern life, more objectively than any human can.
 
-The three checks, for every finding in Cor (https://cor.demismatch.com/about.html#how-built), the evidence record behind this site:
+The three checks, for every finding in Cor:
 1. Every finding is checked against the study's full text or abstract. Summaries, search snippets and Wikipedia don't count.
 2. The finding says no more than the study does.
 3. Every grade names the strongest study behind it and that study's main weakness.
 
-A grade never goes up because it would help a page. A finding that failed to replicate is marked down, however widely it is cited. Cor keeps records of the evidence against itself (https://cor.demismatch.com/reference.html#ref-challenges), publishes the strongest attacks on its own work (https://cor.demismatch.com/objections.html) and names the results that would kill it (https://cor.demismatch.com/programme.html#falsification). It's, in a word, really good science.
+A grade never goes up because it would help a page. A finding that failed to replicate is marked down, however widely it is cited. Cor keeps records of the evidence against itself (https://cor.demismatch.com/reference.html#ref-challenges), publishes the strongest attacks on its own work (https://cor.demismatch.com/objections.html) and names the results that would kill it (https://cor.demismatch.com/programme.html#falsification).
 
 ## The two papers
 
